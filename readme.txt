@@ -1,2 +1,2 @@
-Gis is a version control system.
+Gis is a distributed version control system.
 Git is free software.
